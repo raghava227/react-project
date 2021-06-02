@@ -1,7 +1,7 @@
 import React from "react";
 
 
-const Raghava = (props) =>{
+const Raghava reddy = (props) =>{
     return (
         <div>
 
@@ -11,4 +11,4 @@ const Raghava = (props) =>{
     );
 };
 
-export default Raghava;
+export default Raghava reddy;
