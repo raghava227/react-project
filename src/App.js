@@ -1,4 +1,4 @@
-import React from "react";
+iimport React from "react";
 import "./App.css";
 import Home from './components/home';
 //import About from './components/about';
@@ -16,7 +16,7 @@ class App extends React.Component{
 
       <Router>
         <div>
-          <h2>welcome to router in react js</h2>
+          <h2>welcome to raghava</h2>
           <ul>
             <li>
               
